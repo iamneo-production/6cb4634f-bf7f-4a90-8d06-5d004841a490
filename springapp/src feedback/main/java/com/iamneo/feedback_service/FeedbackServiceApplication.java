@@ -1,13 +1,13 @@
-package com.example.springapp;
+package com.iamneo.feedback_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringappApplication {
+public class FeedbackServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringappApplication.class, args);
+		SpringApplication.run(FeedbackServiceApplication.class, args);
 	}
 
 }
